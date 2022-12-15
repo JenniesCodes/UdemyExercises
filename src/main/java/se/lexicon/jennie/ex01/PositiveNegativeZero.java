@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex1;
+package se.lexicon.jennie.ex01;
 
 public class PositiveNegativeZero {
 

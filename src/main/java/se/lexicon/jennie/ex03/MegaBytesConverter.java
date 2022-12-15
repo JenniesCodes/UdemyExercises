@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex3;
+package se.lexicon.jennie.ex03;
 
 public class MegaBytesConverter {
 

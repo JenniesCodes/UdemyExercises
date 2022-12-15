@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex9;
+package se.lexicon.jennie.ex09;
 
 public class AreaCalculator {
 

@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex6;
+package se.lexicon.jennie.ex06;
 
 public class DecimalComparator {
 

@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex2;
+package se.lexicon.jennie.ex02;
 
 public class SpeedConverter {
 

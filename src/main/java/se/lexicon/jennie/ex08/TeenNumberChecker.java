@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex8;
+package se.lexicon.jennie.ex08;
 
 public class TeenNumberChecker {
 

@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex7;
+package se.lexicon.jennie.ex07;
 
 public class EqualSumChecker {
 

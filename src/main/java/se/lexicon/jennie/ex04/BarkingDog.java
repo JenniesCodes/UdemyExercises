@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex4;
+package se.lexicon.jennie.ex04;
 
 public class BarkingDog {
 

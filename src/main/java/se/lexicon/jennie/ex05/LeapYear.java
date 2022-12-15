@@ -1,4 +1,4 @@
-package se.lexicon.jennie.ex5;
+package se.lexicon.jennie.ex05;
 
 public class LeapYear {
 
